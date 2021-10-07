@@ -1,10 +1,10 @@
-const usrlang = globalObj.navigator.languages;
+let usrlang = globalObj.navigator.languages;
 console.log(usrlang)
 
 //////////////////
 
 
-const usrlang = require('./public/en/assets/js/usrlang.js');
+let usrlang = require('./public/en/assets/js/usrlang.js');
 console.log(usrlang);
 
 
