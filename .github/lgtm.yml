@@ -1,0 +1,15 @@
+extraction:
+  javascript:
+    index:
+      exclude:
+        #none of these Should be published to git/github, but just in case...
+        - dist
+        - out
+        - lib
+      filters:
+        #excludes minified javascript
+        - exclude: "**/*.min.js"
+      filetypes:
+        ".jsm": "js"
+        ".tmpl": "html"
+        # ".ejs": "html"
