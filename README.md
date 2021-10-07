@@ -1,9 +1,9 @@
 <p align="center">
-	<img src="public/src/assets/img/icons/favicon.ico" background="white" align="center" alt="icon" />
+	<img src="public/src/assets/img/icons/favicon.ico" background-color="white" align="center" alt="icon" />
 </p>
 <h1 align="center">Welcome to MyMath! 👋</h1>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mymath" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=my-math" />
 	<hr>
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
