@@ -1,0 +1,27 @@
+{
+    "name": "mymath",
+    "version": "0.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "err 'no test specified' && exit",
+        "run": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mark-Gutenberger/MyMath.git"
+    },
+    "author": "Mark Gutenberger",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/Mark-Gutenberger/MyMath/issues"
+    },
+    "homepage": "https://github.com/Mark-Gutenberger/MyMath#readme",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "jquery": "^3.6.0",
+        "nodemon": "^2.0.13",
+        "npx": "^10.2.2"
+    }
+}
