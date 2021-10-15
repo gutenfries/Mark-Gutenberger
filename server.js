@@ -18,7 +18,7 @@ const express = require('express');
 const indexRouter = require('./public/src/routes');
 
 const app = express();
-const port = process.env.PORT || 1000;
+const port = process.env.PORT || 1010;
 
 app.use(express.static(`${__dirname}/public`));
 app.use('/', indexRouter);
