@@ -17,5 +17,8 @@ router.get('/contact-me', (req, res, next) => {
 router.get('/LICENSE', (req, res) => {
   res.render('LICENSE', { page: 'LICENSE' })
 })
+router.get('/nav', (req, res) => {
+  res.render('nav', { page: 'nav' })
+})
 
 module.exports = router

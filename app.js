@@ -1,8 +1,9 @@
 const express = require('express')
 const indexRouter = require('./public/routes')
+require('dotenv').config()
 
 const app = express()
-const port = process.env.PORT || 1234
+const port = process.env.PORT || 7000
 
 app.use(express.static(`${__dirname}/public`))
 app.use('/', indexRouter)
