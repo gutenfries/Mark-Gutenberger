@@ -1,35 +1,12 @@
-<!-- all meta goes here -->
-
+<!-- keep in mind that relative paths are from INDEX, NOT FROM HERE!! -->
 <head>
     <meta charset="utf-8">
-    <!-- var `page` is in /routes/ -->
     <title>
-        MyMath | <%- page %>
-    </title>
-    <!-- icon -->
-    <link rel="icon" href="/assets/img/icons/favicon.ico">
-    <!-- meta and config -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="hsla(0, 0%, 30%,)">
-    <script>
-        less = {
-            env: "development",
-            logLevel: 2,
-            async: true,
-            fileAsync: true,
-            poll: 1000,
-            functions: {},
-            dumpLineNumbers: "comments",
-            relativeUrls: true,
-            globalVars: {},
-            rootpath: ":/a.com/"
-        };
-    </script>
-    <!-- note that no static libs are published to github. -->
-    <!-- less -->
-    <script src="/lib/less/less.min.js" type="text/javascript"></script>
-    <script href="https://cdn.jsdelivr.net/npm/less@4.1.1" type="text/javascript"></script>
-    <!-- scripts -->
-    <!-- styles -->
-    <link rel="stylesheet" type="text/css" href="/assets/style/css/main.min.css">
-</head>
+        Mark Gutenberger | <%= page %>
+        </title>
+        <link rel="icon" href="./assets/icons/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="hsla(0, 0%, 30%,)"> <!-- pretty much only for andriod, but still cool-->
+        <link rel="stylesheet" type="text/css"
+            href="./style/css/main.min.css">
+    </head>
