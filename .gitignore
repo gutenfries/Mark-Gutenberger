@@ -127,3 +127,4 @@ TODO.md
 
 #less config files
 less-watch-compiler.config.json
+/.vscode
