@@ -16,6 +16,6 @@
 </p>
 <!-- [END BADGES] -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true)
+| my github stats                                                                                                            | top languages                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99) |
