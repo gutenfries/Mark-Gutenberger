@@ -15,3 +15,7 @@
   <a href="https://lgtm.com/projects/g/Mark-Gutenberger/my-math/context:javascript"><img src="https://img.shields.io/lgtm/grade/javascript/g/Mark-Gutenberger/my-math.svg?logo=lgtm&style=flat-square" alt="Language grade: JavaScript" /></a>
 </p>
 <!-- [END BADGES] -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true)
