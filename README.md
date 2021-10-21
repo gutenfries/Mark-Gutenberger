@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
-<h1 align="center">Welcome to my personal site 👋</h1>
+<h1 align="center">Welcome to my personal Github profile & site 👋</h1>
 	<hr>
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
