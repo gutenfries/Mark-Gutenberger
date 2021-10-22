@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="public\assets\icons\favicon.ico" align="center" alt="icon" />
+	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
@@ -19,3 +19,17 @@
 | my github stats                                                                                                            | top languages                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99) |
+
+<h1> Alright </h1>
+let's jump right into this.
+
+this is pretty basic stuff, but there is a lot so i will document it.
+
+technologies covered in this repo:
+
+- [less css](https://lesscss.org)
+- [typescript](https://typescriptlang.org)
+- [ejs view engine](https://ejs.co)
+- [node.js](https://nodejs.org)
+- [tailwind css](https://tailwindcss.com)
+- [mongodb](https://mongodb.com)

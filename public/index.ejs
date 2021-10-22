@@ -11,7 +11,13 @@
 			<main>
 				<h1>404: Page not found</h1>
 				<h1>Redirecting back to home...</h1>
-				<script src="js/redirect.min.js" type="text/javascript">redirect('/');</script>
+				<script type="text/javascript">
+					function redirect(newlocation) {
+						window.location = newlocation;
+						console.log("redirected to " + newlocation);
+					}
+					redirect('/nav');
+				</script>
 			</main>
 			<%- include ('public/views/partials/footer.ejs') -%>
 		</body>
