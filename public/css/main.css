@@ -9,8 +9,6 @@ html {
 body {
   background: hsl(0, 0%, 90%);
   min-height: 100%;
-  -ms-scroll-chaining: none;
-  overscroll-behavior: none;
   padding: 0 20px;
   position: relative;
 }

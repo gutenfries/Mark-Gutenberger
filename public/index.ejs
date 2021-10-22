@@ -6,13 +6,14 @@
 	but being prepared for reality it will redirect a user back to the
 	root (main page).
  -->
+
 		<body>
 			<main>
 				<h1>404: Page not found</h1>
 				<h1>Redirecting back to home...</h1>
-				<script type="text/javascript">redirect('/');</script>
+				<script src="js/redirect.min.js" type="text/javascript">redirect('/');</script>
 			</main>
 			<%- include ('public/views/partials/footer.ejs') -%>
-			</body>
+		</body>
 
-		</html>
+</html>

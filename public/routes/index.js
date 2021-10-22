@@ -1,6 +1,5 @@
 const express = require('express')
 const router = express.Router()
-// const app = express(); here if i need it...
 
 router.get('/', (req, res, next) => {
   res.render('index', { page: 'Home' })
@@ -12,7 +11,7 @@ router.get('/about', (req, res, next) => {
   res.render('index', { page: 'About' })
 })
 router.get('/contact-me', (req, res, next) => {
-  res.render('notindex', { page: 'Contact Me' })
+  res.render('index', { page: 'Contact Me' })
 })
 router.get('/LICENSE', (req, res) => {
   res.render('LICENSE', { page: 'LICENSE' })
