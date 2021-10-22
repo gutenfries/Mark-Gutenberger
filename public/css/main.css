@@ -25,51 +25,6 @@ h6 {
   box-sizing: border-box;
   margin-top: 0;
 }
-div,
-header,
-main,
-footer,
-nav {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-a,
-a:visited,
-a:hover,
-a:active,
-a:focus {
-  color: #006f8e;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-a:focus,
-button:focus,
-details:focus,
-input:focus,
-select:focus,
-textarea:focus,
-[tabindex]:focus {
-  -webkit-box-shadow: 0 0 3px 3px hsla(203, 95%, 62%, 0.8);
-  box-shadow: 0 0 3px 3px hsla(203, 95%, 62%, 0.8);
-  outline: none;
-}
-nav a,
-nav a:visited,
-nav a:hover,
-nav a:active,
-nav a:focus {
-  border-bottom: 1px solid #006f8e;
-  font-size: 0.8rem;
-  margin: 0 6px;
-  padding: 8px;
-  text-transform: uppercase;
-}
-nav a:hover {
-  background: hsl(0, 0%, 90%);
-  text-decoration: none;
-}
 h1 {
   font-weight: 400;
 }
@@ -93,7 +48,7 @@ footer {
   letter-spacing: 2px;
   padding: 14px 0;
 }
-nav {
+.navbarlol {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
