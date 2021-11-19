@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
 </p>
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
 <h1 align="center">Welcome to my personal Github profile & site 👋</h1>
