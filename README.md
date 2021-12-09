@@ -2,9 +2,10 @@
 	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
 </p>
 <p align="center">
+	  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
-<br>
-  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
+	</p>
 <br>
 <h1 align="center">Welcome to my personal Github profile & site 👋</h1>
 	<hr>
