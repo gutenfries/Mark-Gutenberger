@@ -1,29 +1,28 @@
 {
-    "name": "mark-gutenberger",
-    "version": "0.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "run": "nodemon app.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Mark-Gutenberger/mark-gutenberger.git"
-    },
-    "author": "Mark Gutenberger",
-    "license": "GPL-3.0-or-later",
-    "bugs": {
-        "url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
-    },
-    "homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
-    "dependencies": {
-        "dotenv": "^10.0.0",
-        "ejs": "^3.1.6",
-        "express": "^4.17.1",
-        "fs": "^0.0.1-security",
-        "tailwindcss": "^2.2.17"
-    },
-    "devDependencies": {
-        "@types/jquery": "^3.5.8"
-    }
+	"name": "mark-gutenberger",
+	"version": "0.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"run": "nodemon app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mark-Gutenberger/mark-gutenberger.git"
+	},
+	"author": "Mark Gutenberger",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
+	},
+	"homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"ejs": "^3.1.6",
+		"express": "^4.17.1",
+		"fs": "^0.0.1-security"
+	},
+	"devDependencies": {
+		"@types/jquery": "^3.5.8"
+	}
 }

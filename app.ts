@@ -7,7 +7,7 @@ const port = process.env.PORT || 7000
 
 app.use(express.static(`${__dirname}/public`))
 app.use('/', indexRouter)
-app.use((req, res, next) => {
+app.use((req, res, next): void => {
 	res.status(404).render('404', { page: 'Page not found' })
 })
 
