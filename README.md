@@ -2,7 +2,11 @@
 	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
 </p>
 <p align="center">
+	  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
+	</p>
+<br>
 <h1 align="center">Welcome to my personal Github profile & site 👋</h1>
 	<hr>
 <!-- [START BADGES] -->
@@ -15,12 +19,15 @@
   <a href="https://lgtm.com/projects/g/Mark-Gutenberger/Mark-Gutenberger/context:javascript"><img src="https://img.shields.io/lgtm/grade/javascript/g/Mark-Gutenberger/Mark-Gutenberger.svg?logo=lgtm&style=flat-square" alt="Language grade: JavaScript" /></a>
 </p>
 <!-- [END BADGES] -->
+<center>
+<h1> My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99"/> 
+</center>
 
-| my github stats                                                                                                            | top languages                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99) |
 
-<h1> Alright </h1>
+<center><h2> Alright </h2></center>
 let's jump right into this.
 
 this is pretty basic stuff, but there is a lot so i will document it.
