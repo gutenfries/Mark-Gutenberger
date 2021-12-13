@@ -33,11 +33,6 @@ jobs:
                 "link": "${{ env.repo_url }}/pulls"
               },
               {
-                "badge": "https://img.shields.io/github/workflow/status/${{ env.repo_owner }}/${{ env.repo_name }}/Release/master?logo=github&style=flat-square",
-                "alt": "build",
-                "link": "${{ env.repo_url }}/actions/dependabot.yml"
-              },
-              {
                 "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
                 "alt": "Language grade: JavaScript",
                 "link": "https://lgtm.com/projects/g/${{ env.repo_owner }}/${{ env.repo_name }}/context:javascript"
