@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
-	<p align="center">if you cant see this ^ turn off dark mode lol</p>
+	<p align="center">if you cant see this ^ turn off dark mode lol (will fix later)</p>
 </p>
 <p align="center">
 	  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
