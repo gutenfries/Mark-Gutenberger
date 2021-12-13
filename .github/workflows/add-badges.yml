@@ -35,7 +35,7 @@ jobs:
               {
                 "badge": "https://img.shields.io/github/workflow/status/${{ env.repo_owner }}/${{ env.repo_name }}/Release/master?logo=github&style=flat-square",
                 "alt": "build",
-                "link": "${{ env.repo_url }}/actions/workflows/lgtm.yml"
+                "link": "${{ env.repo_url }}/actions/lgtm.yml"
               },
               {
                 "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
