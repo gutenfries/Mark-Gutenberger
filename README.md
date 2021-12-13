@@ -20,11 +20,40 @@
 </p>
 <!-- [END BADGES] -->
 <center>
-<h1> My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=dark&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=mark-gutenberger&theme=react-dark"/>
+<h1> My stats </h1><center>
+    <table>
+        <center>
+            <tr>
+                <center>
+                    <td>
+                        <center><img src="https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true" /></center>
+                        <br />
+                        <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=dark&show_icons=true" /></center>
+                    </td>
+                </center>
+                <center>
+                    <td>
+                        <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99" /></center>
+                    </td>
+                </center>
+            </tr>
+        </center>
+    </table>
+</center>
+<center>
+    <table>
+        <center>
+            <tr>
+                <center>
+                    <td>
+                        <center><img src="https://activity-graph.herokuapp.com/graph?username=mark-gutenberger&theme=react-dark" /></center>
+                    </td>
+                </center>
+            </tr>
+        </center>
+    </table>
+</center>
+
 </center>
 
 
