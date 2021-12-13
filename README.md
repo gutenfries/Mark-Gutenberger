@@ -56,17 +56,3 @@
 
 </center>
 
-
-<center><h2> Alright </h2></center>
-let's jump right into this.
-
-this is pretty basic stuff, but there is a lot so i will document it.
-
-technologies covered in this repo:
-
-- [less css](https://lesscss.org)
-- [typescript](https://typescriptlang.org)
-- [ejs view engine](https://ejs.co)
-- [node.js](https://nodejs.org)
-- [tailwind css](https://tailwindcss.com)
-- [mongodb](https://mongodb.com)
