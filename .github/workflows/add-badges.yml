@@ -23,7 +23,7 @@ jobs:
                 "link": "${{ env.repo_url }}/blob/master/LICENSE"
               },
               {
-                "badge": "https://img.shields.io/badge/language-Javascript-yellow.svg?style=flat-square",
+                "badge": "https://img.shields.io/badge/language-EJS-purple.svg?style=flat-square",
                 "alt": "javascript",
                 "link": "https://www.javascript.com"
               },
@@ -35,7 +35,7 @@ jobs:
               {
                 "badge": "https://img.shields.io/github/workflow/status/${{ env.repo_owner }}/${{ env.repo_name }}/Release/master?logo=github&style=flat-square",
                 "alt": "build",
-                "link": "${{ env.repo_url }}/actions/lgtm.yml"
+                "link": "${{ env.repo_url }}/actions/dependabot.yml"
               },
               {
                 "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
