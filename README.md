@@ -8,7 +8,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
 	</p>
 <br>
-<h1 align="center">Welcome to my personal Github profile & site 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 	<hr>
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
