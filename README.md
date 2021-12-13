@@ -1,9 +1,10 @@
-<p align="center">
+<center>
 	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
-</p>
+	<p align="center">if you cant see this ^ turn off dark mode lol</p>
+</center>
 <p align="center">
 	  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
-	<br>
+	<br><br>
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
 	</p>
 <br>
