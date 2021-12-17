@@ -2,20 +2,23 @@
 	"name": "mark-gutenberger",
 	"version": "0.0.0",
 	"description": "",
-	"main": "app.js",
-	"scripts": {
-		"run": "nodemon app.js"
+	"homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
+	"bugs": {
+		"url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Mark-Gutenberger/mark-gutenberger.git"
 	},
-	"author": "Mark Gutenberger",
 	"license": "GPL-3.0-or-later",
-	"bugs": {
-		"url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
+	"author": "Mark Gutenberger",
+	"main": "app.js",
+	"scripts": {
+		"start": "ts-node app --watch",
+		"tsc": "tsc --build",
+		"tsc:clean": "tsc --build --clean",
+		"lessc": "lessc --source-map=true"
 	},
-	"homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
 	"dependencies": {
 		"dotenv": "^10.0.0",
 		"ejs": "^3.1.6",
@@ -23,31 +26,11 @@
 		"fs": "^0.0.1-security"
 	},
 	"devDependencies": {
-		"@types/jquery": "^3.5.8"
+		"@types/express": "^4.17.13",
+		"@types/jquery": "^3.5.8",
+		"@types/node": "^17.0.0",
+		"nodemon": "^2.0.15",
+		"tslib": "^2.3.1",
+		"typescript": "^4.5.4"
 	}
-    "name": "mark-gutenberger",
-    "version": "0.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "run": "nodemon app.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Mark-Gutenberger/mark-gutenberger.git"
-    },
-    "author": "Mark Gutenberger",
-    "license": "GPL-3.0-or-later",
-    "bugs": {
-        "url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
-    },
-    "homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
-    "dependencies": {
-        "dotenv": "^10.0.0",
-        "ejs": "^3.1.6",
-        "express": "^4.17.1",
-        "fs": "^0.0.1-security",
-        "jquery": "^3.6.0",
-        "tailwindcss": "^2.2.19"
-    }
 }

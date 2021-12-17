@@ -1,5 +1,5 @@
-const express = require('express')
-const indexRouter = require('./public/routes')
+import express from 'express'
+import indexRouter from './public/routes'
 require('dotenv').config()
 
 const app = express()
@@ -14,4 +14,6 @@ app.use((req, res, next): void => {
 app.set('views', `${__dirname}/public/views`)
 app.set('view engine', 'ejs')
 
-app.listen(port, console.log(`Server is listening at port ${port}.`))
+app.listen(port, (): void => {
+	console.log(`Server is listening at port ${port}.`)
+})
