@@ -1,0 +1,25 @@
+name: link_page
+description: the page of my portfolio where you find all my personal links
+
+version: 0.0.0
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.0.3
+  flutter_lints: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+assets:
+  - assets/images/
