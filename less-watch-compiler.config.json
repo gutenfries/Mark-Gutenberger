@@ -3,6 +3,7 @@
 	"minified": true,
 	"watchFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/less",
 	"outputFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/css",
+	"//": "MAKE SURE YOU CHANGE THE ABOVE PATHS TO MATCH YOUR MACHINE ^^^",
 	"mainFile": "main.less",
 	"includeHidden": true,
 	"sourceMap": true,
