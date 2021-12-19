@@ -1,0 +1,13 @@
+{
+	"allowedExtensions": [".less", ".css"],
+	"minified": true,
+	"watchFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/less",
+	"outputFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/css",
+	"mainFile": "main.less",
+	"includeHidden": true,
+	"sourceMap": true,
+	"plugins": "",
+	"lessArgs": "",
+	"runOnce": false,
+	"enableJs": true
+}
