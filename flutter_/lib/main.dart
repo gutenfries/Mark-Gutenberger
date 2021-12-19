@@ -5,7 +5,7 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter/widgets.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:link_page/constants.dart';
+import 'package:flutter_link_page/constants.dart';
 
 void main() => runApp(const MaterialApp(
       title: "App",

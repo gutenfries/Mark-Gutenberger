@@ -19,7 +19,9 @@
 		"tsc-watch": "tsc --sourcemap --pretty --watch --declaration --declarationMap",
 		"tsc-clean": "tsc --build --clean",
 		"lessc": "less-watch-compiler --run-once --source-map --include-hidden",
-		"lessc-watch": "less-watch-compiler --source-map --include-hidden"
+		"lessc-watch": "less-watch-compiler --source-map --include-hidden",
+		"flutter-build": "cd flutter_link_page ; flutter create . --platforms web && flutter build web",
+		"flutter-run": "cd flutter_link_page ; flutter run"
 	},
 	"dependencies": {
 		"dotenv": "^10.0.0",

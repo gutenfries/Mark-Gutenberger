@@ -131,7 +131,6 @@ dist
 # Files and directories created by pub
 .dart_tool/
 .packages
-build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
@@ -143,10 +142,10 @@ doc/api/
 .env*
 
 # Avoid committing generated Javascript files:
-*.dart.js
-*.info.json # Produced by the --dump-info flag.
-*.js_
-*.js.deps
+# *.dart.js
+# *.info.json # Produced by the --dump-info flag.
+# *.js_
+# *.js.deps
 
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -163,3 +162,7 @@ doc/api/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+!/flutter_/build/web
+**/build/flutter_assets
+**/build/**/*.dill
