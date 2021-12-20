@@ -29,6 +29,7 @@
 						<td>
 							<center><img src="https://github-readme-stats.vercel.app/api?username=mark-gutenberger&theme=github_dark&show_icons=true" /></center>
 							<br />
+							<br />
 							<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=dark&show_icons=true" /></center>
 						</td>
 					</center>
