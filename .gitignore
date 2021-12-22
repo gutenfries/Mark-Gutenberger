@@ -163,10 +163,6 @@ doc/api/
 # Built Visual Studio Code Extensions
 *.vsix
 
-!/flutter_link_page/build/web
-**/build/flutter_assets
-**/build/**/*.dill
-
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
@@ -184,3 +180,5 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+build

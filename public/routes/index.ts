@@ -13,10 +13,10 @@ router.get('/about', (req, res, next): void => {
 router.get('/contact-me', (req, res, next): void => {
 	res.render('index', { page: 'Contact Me' })
 })
-router.get('/LICENSE', (req, res): void => {
+router.get('/LICENSE', (req, res, next): void => {
 	res.render('LICENSE', { page: 'LICENSE' })
 })
-router.get('/nav', (req, res): void => {
+router.get('/nav', (req, res, next): void => {
 	res.render('nav', { page: 'nav' })
 })
 export default router
