@@ -25,10 +25,5 @@
 	"typeAcquisition": {
 		"include": ["../node_modules", "../../app/node_modules"]
 	},
-	"exclude": [
-		"node_modules",
-		"../../app/node_modules",
-		"./Font-Awesome",
-		"../Font-Awesome"
-	]
+	"exclude": ["node_modules", "../../app/node_modules"]
 }
