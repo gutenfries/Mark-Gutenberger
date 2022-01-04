@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="public\assets\ico\favicon.ico" align="center" alt="icon" />
+	<img src="src\assets\ico\favicon.ico" align="center" alt="icon" />
 <p align="center">if you cant see this ^ turn off dark mode lol (will fix later)</p>
 </p>
 <p align="center">

@@ -1,7 +1,7 @@
 ## building flutter :
 
 ```sh
-cd public
+cd src
 flutter pub get
 flutter build web
 cd build/web

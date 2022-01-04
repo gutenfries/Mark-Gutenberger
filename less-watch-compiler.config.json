@@ -1,9 +1,8 @@
 {
 	"allowedExtensions": [".less", ".css"],
 	"minified": true,
-	"watchFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/less",
-	"outputFolder": "c://users/mark-/local-repositories/mark-gutenberger/public/style/css",
-	"//": "MAKE SURE YOU CHANGE THE ABOVE PATHS TO MATCH YOUR MACHINE ^^^",
+	"watchFolder": "c://users/mark-/repos/mark-gutenberger/less",
+	"outputFolder": "c://users/mark-/repos/mark-gutenberger/css",
 	"mainFile": "main.less",
 	"includeHidden": true,
 	"sourceMap": true,
