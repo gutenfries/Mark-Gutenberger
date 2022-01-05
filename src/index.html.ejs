@@ -1,11 +1,7 @@
+<%# just in case.. yk.. -%>
 <!DOCTYPE html>
 <html lang="en">
 <%- include ('src/views/partials/head.ejs') -%>
-<!-- 
-	this file has essentially no point and *should* never be used, but being
-	prepared for reality it will redirect a user back to the main page.
- -->
-
 <body>
 	<main>
 		<h1>404: Page not found</h1>
@@ -13,9 +9,9 @@
 		<script type="text/javascript">
 			function redirect( newlocation ) {
 				window.location = newlocation;
-				console.log( "redirected to " + newlocation );
+				console.log(`redirected to ${newlocation}`);
 			}
-			redirect( '/nav' );
+			redirect( '/' );
 		</script>
 	</main>
 	<%- include ('src/views/partials/footer.ejs') -%>
