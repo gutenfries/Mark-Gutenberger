@@ -1,15 +1,4 @@
-<p align="center">
-	<img src="src\assets\ico\favicon.ico" align="center" alt="icon" />
-<p align="center">if you cant see this ^ turn off dark mode lol (will fix later)</p>
-</p>
-<p align="center">
-	<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger" />
-</p>
-<br>
-<h1 align="center">Welcome to my profile 👋</h1>
-<hr>
+
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
 <p align="center">
@@ -19,6 +8,17 @@
   <a href="https://lgtm.com/projects/g/Mark-Gutenberger/Mark-Gutenberger/context:javascript"><img src="https://img.shields.io/lgtm/grade/javascript/g/Mark-Gutenberger/Mark-Gutenberger.svg?logo=lgtm&style=flat-square" alt="Language grade: JavaScript" /></a>
 </p>
 <!-- [END BADGES] -->
+<br>
+<h1 align="center">Hi I'm Mark</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
+</p>
+<p align="center">
+	<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mark-gutenberger&repo=mark-gutenberger"/>
+</p>
+</p>
 <center>
 	<h1> My stats </h1>
 	<center>
