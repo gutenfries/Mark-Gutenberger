@@ -1,0 +1,13 @@
+dist
+node_modules
+*.lock
+package-lock.json
+.DS_Store
+*.log
+*.min.*
+*.dev.*
+*.map
+*.map.*
+readme.*
+readme
+*.handlebars
