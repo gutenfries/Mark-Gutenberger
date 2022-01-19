@@ -1,40 +1,44 @@
 name: Add Badges
 on:
-  push:
-    branches:
-      - master
+ schedule:
+  - cron: '0 0 * * *'
+ push:
+
 jobs:
-  run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: wow-actions/add-badges@v1
-        env:
-          repo_url: ${{ github.event.repository.html_url }}
-          repo_name: ${{ github.event.repository.name }}
-          repo_owner: ${{ github.event.repository.owner.login }}
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          center: true
-          badges: |
-            [
-              {
-                "badge": "https://img.shields.io/github/license/${{ env.repo_owner }}/${{ env.repo_name }}?style=flat-square",
-                "alt": "GPLv3.0",
-                "link": "${{ env.repo_url }}/blob/master/LICENSE"
-              },
-              {
-                "badge": "https://img.shields.io/badge/language-EJS-purple.svg?style=flat-square",
-                "alt": "javascript",
-                "link": "https://www.javascript.com"
-              },
-              {
-                "badge": "https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square",
-                "alt": "PRs Welcome",
-                "link": "${{ env.repo_url }}/pulls"
-              },
-              {
-                "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
-                "alt": "Language grade: JavaScript",
-                "link": "https://lgtm.com/projects/g/${{ env.repo_owner }}/${{ env.repo_name }}/context:javascript"
-              }
-            ]
+ run:
+  runs-on: ubuntu-latest
+  steps:
+   - uses: wow-actions/add-badges@v1
+     env:
+      repo_url: ${{ github.event.repository.html_url }}
+      repo_name: ${{ github.event.repository.name }}
+      repo_owner: ${{ github.event.repository.owner.login }}
+     with:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      center: false
+      commit_message: 'DevOps: Add badges'
+      opening_comment: '[badges]: # (start)'
+      closing_comment: '<!-- badges:end -->'
+      badges: |
+       [
+         {
+           "badge": "https://img.shields.io/github/license/${{ env.repo_owner }}/${{ env.repo_name }}",
+           "alt": "License",
+           "link": "${{ env.repo_url }}/blob/master/LICENSE"
+         },
+         {
+           "badge": "https://img.shields.io/badge/language-JavaScript-yellow.svg",
+           "alt": "javascript",
+           "link": "https://www.javascript.com"
+         },
+         {
+           "badge": "https://img.shields.io/badge/PRs-Welcome-brightgreen.svg",
+           "alt": "PRs Welcome",
+           "link": "${{ env.repo_url }}/pulls"
+         }
+        ]
+     #  {
+     #    "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
+     #    "alt": "Language grade: JavaScript",
+     #    "link": "https://lgtm.com/projects/g/${{ env.repo_owner }}/${{ env.repo_name }}/context:javascript"
+     #  }
