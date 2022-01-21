@@ -7,9 +7,9 @@
 
 [badges]: # (start)
 <!-- Please keep comment here to allow auto update -->
-[![License](https://img.shields.io/github/license/mark-gutenberger/mark-gutenberger)](/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Mark-Gutenberger/Mark-Gutenberger)](https://github.com/Mark-Gutenberger/Mark-Gutenberger/blob/master/LICENSE)
 [![javascript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/Mark-Gutenberger/Mark-Gutenberger/pulls)
 <!-- badges:end -->
 
 [![CodeQL](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml)
