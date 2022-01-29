@@ -15,78 +15,30 @@
 [![CodeQL](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2059%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2022
+> 🏆 59 Contributions in the Year 2022
  > 
-> 📦 45.0 kB Used in GitHub's Storage 
+> 📦 206.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-🌆 Daytime    39 commits     ██████████░░░░░░░░░░░░░░░   42.39% 
-🌃 Evening    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-🌙 Night      20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       16 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Thursday     11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-Saturday     21 commits     █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-Sunday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   20.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-JavaScript               2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93% 
-Other                    2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71% 
-YAML                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-🔥 Editors: 
-VS Code                  9 hrs 29 mins       ████████████████████░░░░░   83.3% 
-Browser                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Visual Studio            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-
-💻 Operating System: 
-Windows                  11 hrs 6 mins       ████████████████████████░   97.37% 
-Linux                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-TypeScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-CMake                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
@@ -96,7 +48,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mark-Gutenberger/Mark-Gutenberger/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 29/01/2022 00:46:55 UTC
 <!--END_SECTION:waka-->
 
 <center>
