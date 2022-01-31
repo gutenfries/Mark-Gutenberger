@@ -17,28 +17,28 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 59 Contributions in the Year 2022
+> 🏆 64 Contributions in the Year 2022
  > 
-> 📦 206.5 kB Used in GitHub's Storage 
+> 📦 206.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -48,7 +48,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mark-Gutenberger/Mark-Gutenberger/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 01:06:27 UTC
+ Last Updated on 31/01/2022 15:33:50 UTC
 <!--END_SECTION:waka-->
 
 <center>
