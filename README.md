@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <hr>
 
-[![License](https://img.shields.io/github/license//)](/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mark-gutenberger/mark-gutenberger)](/blob/master/LICENSE)
 [![javascript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
 
