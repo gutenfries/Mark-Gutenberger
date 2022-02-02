@@ -5,12 +5,9 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <hr>
 
-[badges]: # (start)
-<!-- Please keep comment here to allow auto update -->
 [![License](https://img.shields.io/github/license//)](/blob/master/LICENSE)
 [![javascript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
-<!-- badges:end -->
 
 [![CodeQL](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml)
 
