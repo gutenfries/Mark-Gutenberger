@@ -2,10 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
  schedule:
-  - cron: '0 0 * * *'
- push:
- paths-ignore:
- "charts/*", "profile-3d-contrib/*"
+  - cron: '0 * * * *'
 
 jobs:
  build:

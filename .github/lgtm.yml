@@ -7,4 +7,3 @@ extraction:
    filters:
     - exclude: ['node_modules', 'dist', 'out', 'build', '*.min.*', '*.bundle.*', '*.map', '*.dev.*']
    filetypes:
-    # ".ejs": "html"
