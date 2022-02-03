@@ -1,6 +1,6 @@
 {
 	"schedule": "daily", // daily|weekly|monthly
-	"ignoredFiles": ["./profile-3d-contrib", "charts"],
+	"ignoredFiles": ["./profile-3d-contrib", "charts", "*.svg"],
 	"aggressiveCompression": "true", // true|false
 	"compressWiki": "true", // true|false
 	"minKBReduced": 10, // set reduction threshold (default to 10),
