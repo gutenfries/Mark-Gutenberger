@@ -10,17 +10,17 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 83 Contributions in the Year 2022
+> 🏆 86 Contributions in the Year 2022
  > 
-> 📦 355.3 kB Used in GitHub's Storage 
+> 📦 403.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -31,9 +31,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    68 commits     █████████░░░░░░░░░░░░░░░░   35.79% 
-🌆 Daytime    90 commits     ███████████░░░░░░░░░░░░░░   47.37% 
-🌃 Evening    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+🌞 Morning    71 commits     █████████░░░░░░░░░░░░░░░░   37.37% 
+🌆 Daytime    88 commits     ███████████░░░░░░░░░░░░░░   46.32% 
+🌃 Evening    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -42,8 +42,8 @@
 ```text
 Monday       48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.26% 
 Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Thursday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+Wednesday    42 commits     █████░░░░░░░░░░░░░░░░░░░░   22.11% 
+Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
 Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
@@ -91,7 +91,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mark-Gutenberger/Mark-Gutenberger/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 15:06:29 UTC
+ Last Updated on 03/02/2022 16:07:53 UTC
 <!--END_SECTION:waka-->
 
 <center>
