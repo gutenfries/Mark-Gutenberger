@@ -9,8 +9,6 @@
 [![javascript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
 
-[![CodeQL](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Mark-Gutenberger/mark-gutenberger/actions/workflows/codeql-analysis.yml)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
 
