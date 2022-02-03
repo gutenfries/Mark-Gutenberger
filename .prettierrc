@@ -17,7 +17,7 @@
 	"vueIndentScriptAndStyle": false,
 	"overrides": [
 		{
-			"files": "*.handlebars, *.hbs, *.html",
+			"files": "*.md",
 			"options": {
 				"singleQuote": false
 			}

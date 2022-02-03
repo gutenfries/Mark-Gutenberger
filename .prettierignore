@@ -8,6 +8,4 @@ package-lock.json
 *.dev.*
 *.map
 *.map.*
-readme.*
-readme
 *.handlebars
