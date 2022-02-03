@@ -10,15 +10,17 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](/pulls)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2022
+> 🏆 83 Contributions in the Year 2022
  > 
-> 📦 319.9 kB Used in GitHub's Storage 
+> 📦 355.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -29,9 +31,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    65 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
+🌞 Morning    68 commits     █████████░░░░░░░░░░░░░░░░   35.79% 
 🌆 Daytime    90 commits     ███████████░░░░░░░░░░░░░░   47.37% 
-🌃 Evening    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
+🌃 Evening    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -40,8 +42,8 @@
 ```text
 Monday       48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.26% 
 Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
-Wednesday    46 commits     ██████░░░░░░░░░░░░░░░░░░░   24.21% 
-Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
+Thursday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
 Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
 Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
@@ -89,7 +91,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mark-Gutenberger/Mark-Gutenberger/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 14:05:28 UTC
+ Last Updated on 03/02/2022 15:06:29 UTC
 <!--END_SECTION:waka-->
 
 <center>
