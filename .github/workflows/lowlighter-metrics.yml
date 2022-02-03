@@ -52,8 +52,8 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
+          # plugin_discussions: yes
+          # plugin_discussions_categories: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
@@ -96,12 +96,12 @@ jobs:
           # plugin_nightscout_url: https://example.herokuapp.com
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_indepth: yes
+          # plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: .user.website
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_detailed: yes
+          # plugin_pagespeed_screenshot: yes
+          # plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_limit: 24
@@ -138,19 +138,19 @@ jobs:
           plugin_skyline_frames: 90
           plugin_skyline_quality: 1
           plugin_skyline_year: current-year
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, about
+          # plugin_sponsors: yes
+          # plugin_sponsors_sections: goal, about
           # plugin_stackoverflow: yes
           # plugin_stackoverflow_limit: 2
           # plugin_stackoverflow_lines: 4
           # plugin_stackoverflow_lines_snippet: 2
           # plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
+          # plugin_stargazers: yes
+          # plugin_stargazers_charts_type: classic
+          # plugin_starlists: yes
+          # plugin_starlists_limit: 2
+          # plugin_starlists_limit_repositories: 2
+          # plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           # plugin_stock: yes
@@ -172,3 +172,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
