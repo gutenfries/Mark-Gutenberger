@@ -130,3 +130,4 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 </center>
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contrib graph"/>
+<img src="./github-metrics.svg" alt="gh metrics" width="100%"/>
