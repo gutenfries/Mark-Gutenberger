@@ -7,7 +7,7 @@
 	"htmlWhitespaceSensitivity": "css",
 	"insertPragma": false,
 	"jsxSingleQuote": true,
-	"printWidth": 150,
+	"printWidth": 120,
 	"quoteProps": "as-needed",
 	"semi": false,
 	"singleQuote": true,
@@ -19,7 +19,8 @@
 		{
 			"files": "*.md",
 			"options": {
-				"singleQuote": false
+				"singleQuote": false,
+				"printWidth": 80
 			}
 		},
 		{
