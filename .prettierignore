@@ -9,3 +9,4 @@ package-lock.json
 *.map
 *.map.*
 *.handlebars
+*.svg # comment this out as needed
