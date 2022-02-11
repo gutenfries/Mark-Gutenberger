@@ -15,18 +15,16 @@ jobs:
       USERNAME: ${{ github.repository_owner }}
    - name: Commit & Push
      run: |
-        pwd
-        echo "----------------\n"
-        ls
-        # . ./git-commit.sh
-        # git-commitf( 'github-actions', 'github-actions@github.com', 'DevOps: Generate 3D Contrib svgs' )
-
-
-
-      # git config user.name github-actions
-      # git config user.email github-actions@github.com
-      # git add -A .
-      # # git commit -m "DevOps: Generate 3D Contrib svgs"
-      # # git push
-      # git diff --quiet 
-      # git diff --staged --quiet || git commit -am 'DevOps: Generate 3D Contrib svgs'
+        # pwd
+        # echo "----------------\n"
+        # ls
+        . /.github/workflows/git-commit.sh
+        git-commitf( 'github-actions', 'github-actions@github.com', 'DevOps: Generate 3D Contrib svgs' )
+        #####################################################################################################
+        # git config user.name github-actions
+        # git config user.email github-actions@github.com
+        # git add -A .
+        # # git commit -m "DevOps: Generate 3D Contrib svgs"
+        # # git push
+        # git diff --quiet 
+        # git diff --staged --quiet || git commit -am 'DevOps: Generate 3D Contrib svgs'
