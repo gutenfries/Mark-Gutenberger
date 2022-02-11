@@ -18,7 +18,7 @@ jobs:
         # pwd
         # echo "----------------\n"
         # ls
-        . /.github/workflows/git-commit.sh
+        . ./git-commit.sh
         git-commitf( 'github-actions', 'github-actions@github.com', 'DevOps: Generate 3D Contrib svgs' )
         #####################################################################################################
         # git config user.name github-actions
