@@ -6,6 +6,6 @@ function git-commitf() {
       git add -A .
       # git commit -m "DevOps: Generate 3D Contrib svgs"
       # git push
-      git diff --quiet 
-      git diff --staged --quiet || git commit -am $3
+      git diff --quiet
+      git diff --staged --quiet || git commit -m $3
 }
