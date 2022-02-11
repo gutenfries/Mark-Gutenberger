@@ -1,6 +1,6 @@
 #! /bin/bash
 
-function git-commitf( committer_name, committer_email, commit_message ) {
+function git-commitf(committer_name,committer_email,commit_message) {
       git config user.name ${committer_name}
       git config user.email ${committer_email}
       git add -A .
