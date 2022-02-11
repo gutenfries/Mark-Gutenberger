@@ -1,12 +1,11 @@
 #! /bin/bash
 
-function git-commitf ( committer_name, committer_email, commit_message ) {
-      git config user.name ${committer_name}
-      git config user.email ${committer_email}
+function git-commitf() {
+      git config user.name $1
+      git config user.email $2
       git add -A .
       # git commit -m "DevOps: Generate 3D Contrib svgs"
       # git push
       git diff --quiet 
-      git diff --staged --quiet || git commit -am ${commit_message}
-
+      git diff --staged --quiet || git commit -am $3
 }
