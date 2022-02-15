@@ -63,7 +63,7 @@ jobs:
       plugin_habits_charts: yes
       plugin_habits_days: 14
       plugin_habits_facts: yes
-      plugin_habits_from: 200
+      plugin_habits_from: 30
       plugin_habits_trim: yes
       # plugin_introduction: yes
       # plugin_introduction_title: yes
@@ -102,12 +102,12 @@ jobs:
       # plugin_pagespeed_detailed: yes
       # plugin_pagespeed_screenshot: yes
       # plugin_pagespeed_url: .user.website
-      plugin_people: yes
-      plugin_people_identicons: yes
-      plugin_people_limit: 24
-      plugin_people_shuffle: yes
-      plugin_people_size: 28
-      plugin_people_types: followers, following
+      # plugin_people: yes
+      # plugin_people_identicons: yes
+      # plugin_people_limit: 24
+      # plugin_people_shuffle: yes
+      # plugin_people_size: 28
+      # plugin_people_types: followers, following
       # plugin_poopmap: yes
       # plugin_poopmap_days: 7
       # plugin_posts: yes
