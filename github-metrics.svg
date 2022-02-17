@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    361 views in last two weeks
+                                    355 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -654,26 +654,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">C#</span>
-                            <div class="bar" style="width: 69.08241805759751%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">86%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 7.977168554873303%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.3454120902879874%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.5950012972412004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -702,7 +682,7 @@
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
-                            <div class="label" title="Git, Deep learning, Database, Vue.js, Data structures, Google, Go, SQL, C#, Arduino, Angular, MySQL, Django, Azure, Chrome, GitHub API, JSON, Front end, Bot, Bash, iOS, Unity, Chrome extension, Terminal, Tensorflow, .NET, 3D, Command line interface, Code quality, TypeScript, ASP.NET, Ubuntu, Code review, macOS, Kotlin, HTTP, jQuery, MongoDB, Framework, Firefox, Flask, Windows, Game engine, Markdown, Electron, Compiler, Express, Ruby, Minecraft, Operating system, Babel, Web app, Documentation, Deployment, Twitter, Material design, ESLint, Lua, Emulator, Font, Gradle, Dependency management, Emoji, Mongoose, Jekyll, Icon font, nintendo, doom, nintendo-nes, super-mario-world">and 70 more...</div>
+                            <div class="label" title="Git, Deep learning, Database, Vue.js, Data structures, Google, Go, SQL, C#, Arduino, Angular, MySQL, Django, Azure, Chrome, GitHub API, JSON, Front end, Bot, Bash, Unity, iOS, Chrome extension, Terminal, Tensorflow, .NET, 3D, Command line interface, Code quality, TypeScript, ASP.NET, Ubuntu, Code review, macOS, Kotlin, HTTP, jQuery, MongoDB, Framework, Firefox, Flask, Windows, Game engine, Markdown, Electron, Compiler, Express, Ruby, Minecraft, Operating system, Babel, Web app, Documentation, Deployment, Twitter, Material design, ESLint, Lua, Emulator, Font, Gradle, Dependency management, Emoji, Mongoose, Jekyll, Icon font, nintendo, doom, nintendo-nes, super-mario-world">and 70 more...</div>
                         </div>
                     </section>
                 </div>
@@ -1337,7 +1317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2022, 09:16:11 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 10:21:15 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
