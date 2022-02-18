@@ -17,16 +17,22 @@
 	"vueIndentScriptAndStyle": false,
 	"overrides": [
 		{
-			"files": "*.md",
+			"files": ["*.md", "*.markdown", "*.html"],
 			"options": {
 				"singleQuote": false,
 				"printWidth": 80
 			}
 		},
 		{
-			"files": "*.svg",
+			"files": ["*.svg"],
 			"options": {
 				"parser": "xml"
+			}
+		},
+		{
+			"files": ["*.prettier*"],
+			"options": {
+				"parser": "json"
 			}
 		}
 	]
