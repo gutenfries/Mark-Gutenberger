@@ -3,7 +3,11 @@
 	<br/>
 	<h1 align="center">Hi, I'm Mark 👋</h1>
 	<br/>
-	<img src="./github-metrics.svg" alt="gh metrics" width="100%" />
+	<img
+		src="./github-metrics.svg"
+		alt="gh metrics"
+		width="100%"
+	/>
 	<h1>Commit Streaks</h1>
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=github-dark&hide_border=true&background=00000022"
@@ -47,6 +51,8 @@
 		alt="github languages"
 		width="100%"
 	/>
+	<br/>
 	<h1>and that's all :)</h1>
+	<br/>
 </div>
 <br/>
