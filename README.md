@@ -17,5 +17,5 @@
 <img src="https://wakatime.com/share/@gutenfries/e48c4071-1d73-4b07-983d-472de8a43623.svg"" alt="wakatime editors" width="100%" /><br>
 <h1>Languages</h1><small>languages as interpreted by use in GitHub storage</small>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99&layout=compact" alt="github languages" width="100%" />
-and that's all :)
+<h1>and that's all :)</h1>
 </div>
