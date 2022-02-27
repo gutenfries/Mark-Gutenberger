@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1765" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1900" class="">
     <defs>
         <style/>
     </defs>
@@ -474,9 +474,64 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 22.26687910407898%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">28%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 20.945100892421323%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">26%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 7.055378012727825%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 5.749072121273519%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">PowerShell</span>
+                            <div class="bar" style="width: 4.896620955784162%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Less</span>
+                            <div class="bar" style="width: 4.672640701411849%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 4.383824057615973%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">C++</span>
+                            <div class="bar" style="width: 3.627890699109421%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
+                        </div>
+                        <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 3.425276982160783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">ANTLR</span>
+                            <div class="bar" style="width: 2.8063841740267637%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Go</span>
+                            <div class="bar" style="width: 0.15398642488096445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Makefile</span>
+                            <div class="bar" style="width: 0.01694587450843149%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                     </div>
                 </section>
@@ -1035,7 +1090,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2022, 06:23:47 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 27 Feb 2022, 07:17:32 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
