@@ -48,10 +48,10 @@ jobs:
       # plugin_anilist_sections: favorites
       # plugin_anilist_shuffle: yes
       # plugin_anilist_user: .user.login
-      plugin_code: yes
-      plugin_code_lines: 12
-      plugin_code_load: 100
-      plugin_code_visibility: public
+      # plugin_code: yes
+      # plugin_code_lines: 12
+      # plugin_code_load: 100
+      # plugin_code_visibility: public
       # plugin_discussions: yes
       # plugin_discussions_categories: yes
       # plugin_followup: yes
@@ -161,7 +161,7 @@ jobs:
       # plugin_topics_limit: 15
       # plugin_topics_mode: starred
       # plugin_topics_sort: stars
-      plugin_traffic: yes
+      # plugin_traffic: yes
       # plugin_tweets: yes
       # plugin_tweets_attachments: yes
       # plugin_tweets_limit: 2
