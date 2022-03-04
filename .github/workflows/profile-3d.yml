@@ -15,6 +15,7 @@ jobs:
       USERNAME: ${{ github.repository_owner }}
    - name: Commit & Push
      run: |
+      yarn
       yarn pretty
       . ./git-commit.sh
       git-commitf 'github-actions' 'github-actions@github.com' 'DevOps: Generate 3D Contrib svgs'
