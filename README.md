@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: MIT -->
 <div align="center" width="100%">
 	<br/>
-	<h1 align="center">Hi, I'm Mark 👋</h1>
+	<h1 align="center">Hi, I'm Mark 👋 😁</h1>
 	<br/>
 	<img
 		src="./github-metrics.svg"
