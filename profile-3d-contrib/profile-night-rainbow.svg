@@ -18341,6 +18341,57 @@
 				repeatCount="1"
 			/>
 		</path>
+		<path
+			d="M1138,802.6572779264507L1156,792.2649730810374L1156,789.2649730810374L1138,799.6572779264507Z"
+			stroke-width="0px"
+		>
+			<animate
+				attributeName="fill"
+				values="rgb(54, 18, 20);rgb(54, 51, 18);rgb(20, 54, 18);rgb(18, 54, 51);rgb(18, 20, 54);rgb(51, 18, 54);rgb(54, 18, 20)"
+				dur="10s"
+				repeatCount="indefinite"
+			/>
+			<animate
+				attributeName="d"
+				values="M1138,802.6572779264507L1156,792.2649730810374L1156,789.2649730810374L1138,799.6572779264507Z;M1138,802.6572779264507L1156,792.2649730810374L1156,789.2649730810374L1138,799.6572779264507Z"
+				dur="3s"
+				repeatCount="1"
+			/>
+		</path>
+		<path
+			d="M1120,792.2649730810374L1138,802.6572779264507L1138,799.6572779264507L1120,789.2649730810374Z"
+			stroke-width="0px"
+		>
+			<animate
+				attributeName="fill"
+				values="rgb(64, 21, 24);rgb(64, 61, 21);rgb(24, 64, 21);rgb(21, 64, 61);rgb(21, 24, 64);rgb(61, 21, 64);rgb(64, 21, 24)"
+				dur="10s"
+				repeatCount="indefinite"
+			/>
+			<animate
+				attributeName="d"
+				values="M1120,792.2649730810374L1138,802.6572779264507L1138,799.6572779264507L1120,789.2649730810374Z;M1120,792.2649730810374L1138,802.6572779264507L1138,799.6572779264507L1120,789.2649730810374Z"
+				dur="3s"
+				repeatCount="1"
+			/>
+		</path>
+		<path
+			d="M1120,789.2649730810374L1138,799.6572779264507L1156,789.2649730810374L1138,778.8726682356241Z"
+			stroke-width="0px"
+		>
+			<animate
+				attributeName="fill"
+				values="rgb(77, 25, 29);rgb(77, 73, 25);rgb(29, 77, 25);rgb(25, 77, 73);rgb(25, 29, 77);rgb(73, 25, 77);rgb(77, 25, 29)"
+				dur="10s"
+				repeatCount="indefinite"
+			/>
+			<animate
+				attributeName="d"
+				values="M1120,789.2649730810374L1138,799.6572779264507L1156,789.2649730810374L1138,778.8726682356241Z;M1120,789.2649730810374L1138,799.6572779264507L1156,789.2649730810374L1138,778.8726682356241Z"
+				dur="3s"
+				repeatCount="1"
+			/>
+		</path>
 	</g>
 	<g transform="translate(980, 284.5)">
 		<line
@@ -18845,7 +18896,7 @@
 			<title>0</title>
 		</text>
 		<text style="font-size: 16px;" x="1260" y="20" dominant-baseline="hanging" text-anchor="end" fill="#aaaaaa">
-			2021-03-07 / 2022-03-08
+			2021-03-07 / 2022-03-09
 		</text>
 	</g>
 </svg>
