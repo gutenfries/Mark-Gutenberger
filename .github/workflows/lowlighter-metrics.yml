@@ -176,5 +176,7 @@ jobs:
           # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
       - name: "format"
         run: |
+          git clone https://github.com/mark-gutenberger/mark-gutenberger.git
           yarn
           yarn pretty
+          git push
