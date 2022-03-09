@@ -1,11 +1,3 @@
-/*
- * SPDX - License - Identifier: MIT
- * Author: Mark Gutenberger <mark-gutenberger@outlook.com>
- * .prettierrc.js (c) 2022
- * Desc: prettier config file
- * Created:  2022-02-25T14:24:49.313Z
- * Modified: 2022-03-09T03:45:40.410Z
- */
 module.exports = {
 	$schema: 'http://json.schemastore.org/prettierrc',
 	arrowParens: 'always',
@@ -27,16 +19,7 @@ module.exports = {
 	xmlSelfClosingSpace: true,
 	overrides: [
 		{
-			files: [
-				'nuget.config',
-				'*.props',
-				'*.filters',
-				'*.vcxproj',
-				'*.targets',
-				'*.xaml',
-				'packages.config',
-				'*.appxmanifest',
-			],
+			files: ['*.xaml', '*.vcxproj'],
 			options: {
 				parser: 'xml',
 			},
@@ -57,16 +40,22 @@ module.exports = {
 			},
 		},
 		{
-			files: ['*.svg'],
+			files: ['*.svg', 'nuget.config', '*.props', '*.filters', '*.targets', 'packages.config', '*.appxmanifest'],
 			options: {
 				parser: 'xml',
-				xmlWhitespaceSensitivity: ignore,
+				xmlWhitespaceSensitivity: 'ignore',
 			},
 		},
 		{
 			files: ['*.ejs'],
 			options: {
 				parser: 'glimmer',
+			},
+		},
+		{
+			files: ['.imgbotconfig'],
+			options: {
+				parser: 'json',
 			},
 		},
 	],

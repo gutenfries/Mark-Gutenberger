@@ -1,2 +1,2 @@
 tasks:
- - init: yarn && yarn pretty
+  - init: yarn && yarn pretty
