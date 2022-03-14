@@ -21,10 +21,10 @@
 		width="100%"
 	/>
 	<br/>
-	<h1>Languages</h1>
+	<h1>My lang rundown from the past month</h1>
 	<small>as interpreted by wakatime</small>
 	<img
-		src="https://wakatime.com/share/@gutenfries/b734d56e-f4e2-429f-8b9d-d2dbc2d964b5.svg"
+		src="https://wakatime.com/share/@gutenfries/47064074-d4fa-418c-bad5-b1394a52704d.svg"
 		alt="wakatime languages"
 		width="100%"
 	/>
