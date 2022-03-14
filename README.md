@@ -37,17 +37,10 @@
 		width="100%"
 	/>
 	<br/>
-	<h1>Editors</h1>
-	<small>as interpreted by wakatime</small> <img
-		src="https://wakatime.com/share/@gutenfries/e48c4071-1d73-4b07-983d-472de8a43623.svg""
-		alt="wakatime editors"
-		width="100%"
-	/>
-	<br/>
 	<h1>Languages</h1>
 	<small>languages as interpreted by use in GitHub storage</small>
 	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99&layout=compact"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99&layout=compact&hide_border=true&background=00000022"
 		alt="github languages"
 		width="100%"
 	/>
