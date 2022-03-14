@@ -24,7 +24,6 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.GH_TOKEN }}
-
           # Options
           user: mark-gutenberger
           template: classic
@@ -174,9 +173,9 @@ jobs:
           # plugin_wakatime_url: https://wakatime.com
           # plugin_wakatime_user: current
           # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-      - name: "format"
-        run: |
-          git clone https://github.com/mark-gutenberger/mark-gutenberger.git
-          yarn
-          yarn pretty
-          git push
+      # - name: "format"
+        # run: |
+          # git clone https://github.com/mark-gutenberger/mark-gutenberger.git
+          # yarn
+          # yarn pretty
+          # git push
