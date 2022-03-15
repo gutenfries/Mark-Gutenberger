@@ -14,11 +14,6 @@
 		width="100%"
 	/>
 	<img
-		src="./profile-3d-contrib/profile-night-green.svg"
-		alt="3d contrib graph"
-		width="100%"
-	/>
-	<img
 		src="https://wakatime.com/share/@gutenfries/47064074-d4fa-418c-bad5-b1394a52704d.svg"
 		alt="wakatime languages"
 		width="100%"
