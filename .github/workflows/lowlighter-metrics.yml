@@ -44,6 +44,9 @@ jobs:
       - name: "format"
         run: |
           git clone https://github.com/mark-gutenberger/mark-gutenberger.git
+          cd mark-gutenberger
           yarn
           yarn pretty
+          git add *
+          git commit -m "DevOps: format metrics"
           git push
