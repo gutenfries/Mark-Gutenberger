@@ -52,4 +52,5 @@ jobs:
           git config user.email "mark-gutenberger@outlook.com"
           git add -A .
           git diff --quiet
-          git diff --staged --quiet || git commit -m "DevOps: format metrics" && git push
+          git diff --staged --quiet || git commit -m "DevOps: format metrics"
+          git push origin master
