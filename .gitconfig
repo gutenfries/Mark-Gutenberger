@@ -3,7 +3,7 @@
 # .gitconfig (c) 2022
 # Desc: description
 # Created:  2022-03-16T03:24:29.530Z
-# Modified:
+# Modified:2022-03-16T03:27:35.141Z
 
 [core]
 	repositoryformatversion = 0
@@ -24,3 +24,5 @@
 	rebase = true
 [advice]
 	addIgnoredFile = false
+[url "git@github.com:"]
+ insteadOf = https://github.com/
