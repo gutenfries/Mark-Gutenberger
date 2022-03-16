@@ -1,0 +1,26 @@
+# SPDX-License-Identifier: MIT
+# Author: Mark Gutenberger <mark-gutenberger@outlook.com>
+# .gitconfig (c) 2022
+# Desc: description
+# Created:  2022-03-16T03:24:29.530Z
+# Modified:
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Mark-Gutenberger/mark-gutenberger.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+	rebase = true
+[branch "rebase"]
+	remote = origin
+	merge = refs/heads/rebase
+	rebase = true
+[advice]
+	addIgnoredFile = false
