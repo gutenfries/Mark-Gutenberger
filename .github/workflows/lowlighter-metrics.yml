@@ -43,13 +43,14 @@ jobs:
       #       plugin_languages_threshold: 0%
       #       plugin_isocalendar: yes
       - name: "format"
+        uses: "actions/checkout@v2"
         run: |
           git clone https://github.com/mark-gutenberger/mark-gutenberger.git
           cd mark-gutenberger
           yarn
           yarn pretty
-          git config user.name "Mark Gutenberger"
-          git config user.email "mark-gutenberger@outlook.com"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
           git add -A .
           git diff --quiet
           git diff --staged --quiet || git commit -m "DevOps: format metrics"
