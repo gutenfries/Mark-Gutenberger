@@ -43,7 +43,7 @@ jobs:
       #       plugin_languages_threshold: 0%
       #       plugin_isocalendar: yes
       - name: "format"
-        uses: "actions/checkout@v2"
+        # uses: "actions/checkout@v2"
         run: |
           git clone https://github.com/mark-gutenberger/mark-gutenberger.git
           cd mark-gutenberger
