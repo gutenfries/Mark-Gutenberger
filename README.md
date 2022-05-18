@@ -1,19 +1,19 @@
 <!-- SPDX-License-Identifier: MIT -->
 <div align="center" width="100%">
-	<br/>
+	<br />
 	<h1 align="center">Hi, I'm Mark 👋 😁</h1>
-	<br/>
-	<img
-		src="./github-metrics.svg"
-		alt="gh metrics"
-		width="100%"
-	/>
+	<br />
+	<img src="./github-metrics.svg" alt="gh metrics" width="100%" />
 	<!--
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=github-dark&hide_border=true&background=00000022"
 		width="100%"
 	/>
 	-->
+	<!-- TODO -->
+	<table width="100%">
+		<tr width="100%">
+			<td>
 				<img
 					src="https://wakatime.com/share/@gutenfries/aaae5559-e805-4f6c-8576-174849083247.svg"
 					alt="languages i code in"
@@ -32,4 +32,4 @@
 	/>
 	-->
 </div>
-<br/>
+<br />

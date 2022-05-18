@@ -1,5 +1,5 @@
 module.exports = {
-	$schema: 'http://json.schemastore.org/prettierrc',
+	$schema: 'https://json.schemastore.org/prettierrc',
 	arrowParens: 'always',
 	bracketSameLine: false,
 	bracketSpacing: true,
@@ -37,6 +37,7 @@ module.exports = {
 			options: {
 				singleQuote: false,
 				printWidth: 100,
+				parser: 'html',
 			},
 		},
 		{
