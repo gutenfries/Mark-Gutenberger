@@ -17,11 +17,11 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
         #   filename: github-metrics.svg
-          user: mark-gutenberger
+          user: gutenfries
           template: classic
           base: header, activity, community, repositories, metadata
 
-          repositories_skipped: mark-gutenberger
+          repositories_skipped: gutenfries
 
           config_timezone: America/Chicago
           config_twemoji: yes
@@ -42,7 +42,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_skipped: mark-gutenberger
+          plugin_languages_skipped: gutenfries
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

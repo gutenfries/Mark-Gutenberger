@@ -6,7 +6,7 @@
 	<img src="./github-metrics.svg" alt="gh metrics" width="100%" />
 	<!--
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=mark-gutenberger&theme=github-dark&hide_border=true&background=00000022"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=gutenfries&theme=github-dark&hide_border=true&background=00000022"
 		width="100%"
 	/>
 	-->
@@ -26,7 +26,7 @@
 				/>
 	<!--
 	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-gutenberger&theme=github_dark&langs_count=99&layout=compact&hide_border=true&background=00000022"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutenfries&theme=github_dark&langs_count=99&layout=compact&hide_border=true&background=00000022"
 		alt="github languages"
 		width="100%"
 	/>

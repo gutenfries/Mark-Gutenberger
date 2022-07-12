@@ -3,13 +3,13 @@
 	"version": "1.0.0",
 	"private": true,
 	"description": "",
-	"homepage": "https://github.com/Mark-Gutenberger/mark-gutenberger#readme",
+	"homepage": "https://github.com/gutenfries/gutenfries#readme",
 	"bugs": {
-		"url": "https://github.com/Mark-Gutenberger/mark-gutenberger/issues"
+		"url": "https://github.com/gutenfries/gutenfries/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Mark-Gutenberger/mark-gutenberger.git"
+		"url": "git+https://github.com/gutenfries/gutenfries.git"
 	},
 	"license": "MIT",
 	"author": {
@@ -17,9 +17,9 @@
 		"email": "Mark-Gutenberger@outlook.com"
 	},
 	"scripts": {
+		"format": "yarn pretty",
 		"lint": "eslint .",
 		"pretty": "prettier --write .",
-		"format": "yarn pretty",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {},

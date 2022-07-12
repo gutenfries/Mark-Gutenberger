@@ -12,7 +12,7 @@
 	logallrefupdates = true
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Mark-Gutenberger/mark-gutenberger.git
+	url = https://github.com/gutenfries/gutenfries.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
